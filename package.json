@@ -1,0 +1,19 @@
+{
+  "name": "warung-api",
+  "version": "1.0.0",
+  "description": "pos app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taufik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "moment": "^2.14.1",
+    "nedb": "^1.8.0"
+  }
+}
